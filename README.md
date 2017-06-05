@@ -1,1 +1,6 @@
-This is a scraper that runs on [Morph](https://morph.io). To get started [see the documentation](https://morph.io/documentation)
+https://data.gov.au/dataset/moreton-bay-regional-council-road-conditions-live
+
+transformed to
+
+http://standards.opencouncildata.org/#/road-closures
+
